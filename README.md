@@ -1,0 +1,3 @@
+- Ajouter une colonne "en production"
+- Connexion à SHAP
+- Expérience de type Grid Search : montre l'influence de telle ou telle variable sur les performances du modèle
